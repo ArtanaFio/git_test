@@ -1,0 +1,7 @@
+I wonder what is going to happen.
+I don't know what exactly this exercise is suppose to teach me.
+I opened a repository on GitHub and copied it to my computer.
+I created a file (this one) in that repository locally (on my computer).
+I entered commands that I think was meant to save the data I inputed.
+However, I don't know why there are so many steps.
+It's kind of confusing.
